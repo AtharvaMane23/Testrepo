@@ -1,2 +1,2 @@
 # Testrepo
-Trying to learn github.
+Trying to learn github by doing.
